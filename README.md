@@ -1,3 +1,3 @@
 # yourCohort
-Add what season and year of your cohort
-Add your name and classmates names
+Spring 2026
+Josh Cody Keon Kaleb Jennifer Appleton
